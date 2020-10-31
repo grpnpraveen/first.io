@@ -1,6 +1,6 @@
-<html lang="en">
+<html>
     <head>
-        <title>Neon Effect</title>
+        <title>Welcome to my page</title>
         <link rel="stylesheet" type="text/css" href="neon.css">
     </head>
     <body>
