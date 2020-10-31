@@ -1,0 +1,19 @@
+<!DOCTYPE  html>
+<html lang="en">
+    <head>
+        <title>Neon Effect</title>
+        <link rel="stylesheet" type="text/css" href="neon.css">
+    </head>
+    <body>
+        <a href="index2.html">
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+            WELCOME
+            <p>click here</p>
+             <h1>-by grpnpraveen</h1>
+        </a>
+  
+    </body>
+</html>

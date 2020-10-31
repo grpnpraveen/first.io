@@ -1,0 +1,162 @@
+body{
+    
+    background-image:url('_DSC0308.JPG');
+    float:center;
+    width:95%;
+    
+}
+.pic1{
+    padding-left: 37%;
+    height:200px;
+}
+.pic2{
+    padding-left: 37%;
+    height:200px;
+}
+.pic3{
+    padding-left: 37%;
+    height:200px;
+}
+.pic4{
+    padding-left: 37%;
+    height:200px;
+}
+.pic5{
+    padding-left: 37%;
+    height:200px;
+}
+.first{
+    
+    font-size:x-large;
+    color:burlywood;
+}
+.second{
+    color:aqua;
+    text-decoration:none;
+    transition-property: font-size;
+    transition-duration: 0.6s;
+    transition-delay: 0.1s;
+    margin-right: 320px;
+}
+.second:hover{
+    color:antiquewhite;
+    text-decoration: underline;
+    font-size: 18px;
+    
+}
+nav a{
+    color:orange;
+    text-decoration: none;
+    display: inline-block;
+    transition-property:font-size;
+    transition-duration:0.3s ;
+    transition-timing-function: linear;
+    transition-delay:0.2s ;
+    background-color: rgb(200,200,220,0.3);
+    
+    
+   }
+nav a:hover
+{
+    color:floralwhite;
+    text-decoration: underline;
+    text-decoration-color: palevioletred;
+    font-size: 40px;
+   
+}
+.gravity a {
+    color:aquamarine;
+   text-decoration: none;
+}
+.gravity a:hover{
+    text-decoration: underline;
+}
+.gravity p{
+   
+    color:antiquewhite;
+    width: 1000px;
+    height:120px;
+    margin-left: 60px;
+}
+.twitter a {
+    color:aquamarine;
+   text-decoration: none;
+}
+.twitter a:hover{
+    text-decoration: underline;
+}
+.twitter p{
+   
+    color:antiquewhite;
+    width: 1000px;
+    height:120px;
+    margin-left: 60px;
+}
+
+.lion a {
+    color:aquamarine;
+    text-decoration: none;
+}
+.lion p{
+   
+    color:antiquewhite;
+    width: 1000px;
+    height:70px;
+     margin-left: 60px;
+}
+.lion a:hover{
+    text-decoration: underline;
+}
+.universe a {
+    color:aquamarine;
+   text-decoration: none;
+}
+.universe a:hover{
+    text-decoration: underline;
+}
+.universe p{
+   
+    color:antiquewhite;
+    width: 1000px;
+    height:120px;
+    margin-left: 60px;
+}
+ .pointer a {
+    color:aquamarine;
+   text-decoration: none;
+}
+.pointer a:hover{
+    text-decoration: underline;
+}
+.pointer p{
+   
+    color:antiquewhite;
+    width: 1000px;
+    height:120px;
+    margin-left: 60px;
+}
+
+
+
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+   
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #888;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    
+    background-color: bisque;
+  
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+   background-color: aqua;
+}
